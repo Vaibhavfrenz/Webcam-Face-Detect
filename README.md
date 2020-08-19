@@ -13,3 +13,7 @@ Update: Now supports OpenCV3. This change has been made by furetosan ( https://g
 
 To run the OpenCV3 version, run python webcam_cv3.py haarcascade_frontalface_default.xml
 
+
+#########
+Run python webcam_cv3.py
+
